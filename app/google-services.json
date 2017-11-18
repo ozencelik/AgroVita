@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "440240191109",
+    "firebase_url": "https://agrovita-6c968.firebaseio.com",
+    "project_id": "agrovita-6c968",
+    "storage_bucket": "agrovita-6c968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440240191109:android:a823252638525833",
+        "android_client_info": {
+          "package_name": "com.android.zen.agrovita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440240191109-kt2roe9rnsm2q1grcujce36pd466jbl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQvRzAm9FYJi4-wGWpu3x9_MEUg0UIIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
