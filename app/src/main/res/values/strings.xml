@@ -5,4 +5,19 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="automatic_data">Auto Data </string>
+    <string name="choose_the_song">Choose song </string>
+    <string name="edit_data">edit data </string>
+    <string name="result_awesome">result awesome </string>
+    <string name="gm_finds_photos">gm_finds_photos </string>
+    <string name="update_easily">update easily </string>
+    <string name="after_updating">after updating </string>
+    <string name="swap_to_the_tab">swap to the lab </string>
+    <string name="continue_and_learn">swap to the lab </string>
+    <string name="continue_and_update">swap to the lab </string>
+    <string name="continue_and_result">swap to the lab </string>
+    <string name="thank_you">swap to the lab </string>
+
+
 </resources>
